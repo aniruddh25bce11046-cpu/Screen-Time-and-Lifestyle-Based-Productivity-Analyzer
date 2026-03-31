@@ -29,7 +29,7 @@ It also provides suggestions to improve daily routine.
 2. Download the project file
 3. Run the program:
 
-Screen Time and Lifestyle Based Productivity Analyzer.py
+ScreenTimeProductivity_analyzer.py
 
 4. Enter your daily activity hours 
 
